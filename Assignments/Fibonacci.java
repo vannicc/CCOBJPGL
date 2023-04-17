@@ -12,7 +12,7 @@ public class App {
         int firstTerm = 0;
         int secondTerm = 1;
 
-        System.out.println("Fibonacci sequence up to " + range + " terms:");
+        System.out.println("Fibonacci sequence up to " + range + " term/s:");
         for (int i = 0; i < range; i++) {
            System.out.print(firstTerm + " ");
 
